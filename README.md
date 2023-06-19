@@ -28,49 +28,32 @@ BBN, belirli bir sistem veya olayların olasılık değerlerini hesaplamak için
 - ölüm: hasta öldü mü, 1 (evet) veya 0 (hayır) şeklinde temsil edilir
 Bu veriseti, kalp yetmezliği olan hastalarıns ağkalım tahmini yapmak için kullanılabilir.
 #### Naive Bayes Python Kodu
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/7af10919-e5a8-490f-ace4-78c822b418c5" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/8d7a9bb2-e4ea-46dc-aae2-5dfc2ed5bad9" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/408bf544-c6b5-4d22-8bcb-6602cefaa68d" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/dcfdf391-229d-44a3-b06c-f45eca7b5221" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/91f46c5e-071c-48f8-9be9-bbbd4c4af044" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/e7c30853-972e-420b-b62d-77dcaedbb3cc" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/b1913f2b-d3e8-4d04-b0d8-14e348508bcf" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/cf97795e-7494-4d6d-b9a0-1bfebdf90735" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/78c9e431-3eaf-403e-af26-38a952b4f863" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/c42ffc60-fe4b-4952-b767-872910bc6730" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/c55e1035-002f-41db-a292-049fb9e944da" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/a5742bcd-e24a-4d5c-bfe0-b847fa0b05f6" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/baa86842-2123-4a2a-91d7-af28ccdf1fa8" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/7c7c7a8a-f879-4a35-b582-de2e1018265d" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/fbc09e9b-7e7e-4c2b-855a-b4db5561a032" alt="Resim" width="600" >
+<img src="./img/Picture1.png" alt="Resim" width="45%"/> &nbsp;&nbsp;&nbsp; <img src="./img/Picture2.png" alt="Resim" width="45%"/>
+<img src="./img/Picture3.png" alt="Resim" width="45%"/> &nbsp;&nbsp;&nbsp; <img src="./img/Picture4.png" alt="Resim" width="45%">
+<img src="./img/Picture5.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture6.png" alt="Resim" width="45%">
+<img src="./img/Picture7.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture8.png" alt="Resim" width="45%">
+<img src="./img/Picture9.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture10.png" alt="Resim" width="45%">
+<img src="./img/Picture11.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture12.png" alt="Resim" width="45%">
+
 
 #### Sonuç
+<img src="./img/Picture13.png" alt="Resim" width="50%">
+<img src="./img/Picture14.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture15.png" alt="Resim" width="45%">
+<img src="./img/Picture16.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture17.png" alt="Resim" width="45%">
 
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/42743a96-950c-4096-8dc6-743192f0128e" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/2f00560a-610f-4553-81e5-ef16db7be89a" alt="Resim" width="600" >
+
 
 #### Bayesian Belief Network Kod
 
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/4c49f868-21e9-4e6f-b8b7-53e976be2907" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d552e54a-c032-4d62-842c-1263f1cf67a5" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/eb303368-d81b-4be2-8abb-0a0f1b3a2763" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d6ef1752-42a0-4345-89fd-065b22d6ed5a" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/498ef213-e77b-4dab-b86c-52068144ded3" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/0eda63d8-1c19-4439-96c5-afd6cd5c2b23" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/e73d8203-6a2f-4216-bf6f-4351e843bb0f" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/eba359f5-c6a0-4293-9ada-daf87bb62aa4" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/27ad5ec8-8611-464e-abd8-f11f75462161" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/1dec9bbd-aff1-4fad-a0b9-7abbce139425" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/9d2f68c0-3870-4fc7-aff7-e25e9299ed84" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/165a1b7e-7a4b-4408-860f-072da7bb22c3" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/b71f2673-2a5c-4494-bd0a-7b821836b8f1" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d2fbb25b-d28e-41d0-848a-bf76b4126e31" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/8712c652-02ce-4f21-9845-ac43a1241b85" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d02f058a-ba26-41ea-b0ad-d3832b9dcf80" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/be088b83-eba0-4cca-bb09-685d1c4683a2" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/e3fe41d1-27b6-41b2-881f-50aa54f69874" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/b89396cb-27be-4716-bd97-c64b91843ecd" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/8624da59-1fc4-48fc-b14a-961e2e01e494" alt="Resim" width="600" >
+<img src="./img/Picture18.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture19.png" alt="Resim" width="45%">
+
+<img src="./img/Picture20.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture21.png" alt="Resim" width="45%">
+
+<img src="./img/Picture22.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture23.png" alt="Resim" width="45%">
+
+<img src="./img/Picture24.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture25.png" alt="Resim" width="45%">
+
+<img src="./img/Picture26.png" alt="Resim" width="45%">
 
 #### "Makine öğrenimi, kalp yetmezliği olan hastaların sağkalımını yalnızca serum kreatinin ve ejeksiyon fraksiyonundan tahmin edebilir" adlı akademik çalışma:
 Bu akademik çalışmada , ilk olarak tüm veri seti üzerinde sağkalım tahmini için elde edilen sonuçlar ,özellik sıralaması için elde edilen sonuçlar ve veri setinin yalnızca en önemli iki özelliği kullanıldığında sağkalım tahmini ile ilgili sonuçlar açıklanmıştır. Ardından, her bir hastanın takip süresinin sağkalım tahminine ve özellik sıralamasına dahil edilmesiyle elde edilen sonuçları rapor ediliyor.
@@ -78,8 +61,9 @@ Bu akademik çalışmada , ilk olarak tüm veri seti üzerinde sağkalım tahmin
 Bu çalışmada, geleneksel biyoistatistik analiz yöntemleriyle belirlenen iki özelliğin (ejeksiyon fraksiyonu ve serum kreatin) makine öğrenimi yöntemleriyle sıralanması yapılmıştır. Bu yöntem, elektronik sağlık kayıtlarının kardiyovasküler kalp hastalığı olan hastaların ikili sınıflandırılmasında etkili bir şekilde kullanılabileceğini göstermiştir.
 Ancak, çalışmanın sınırlamaları arasında veri setinin küçük boyutu (299 hasta), hastaların fiziksel özellikleri hakkında yetersiz bilgi ve farklı coğrafi bölgelerden gelen veri setleri olmaması yer almaktadır. Bu sınırlamalar daha büyük ve çeşitli veri setleri kullanarak daha güvenilir sonuçlar elde edilebileceğini ve ek risk faktörlerinin tespit edilebileceğini göstermektedir.
 
-
-
+<img src="./img/Picture27.png" alt="Resim" width="50%">
+<img src="./img/Picture28.png" alt="Resim" width="50%">
+<img src="./img/Picture29.png" alt="Resim" width="50%">
 
 # NAIVE BAYES AND BBN
 ## NAIVE BAYES AND BBN METHOD: DIAGNOSIS OF DEATH DUE TO HEART FAILURE
@@ -111,50 +95,26 @@ A BBN can be used to calculate probability values for a given system or events. 
 This dataset can be used to predict the survival of patients with heart failure.
 
 #### Naive Bayes Python Code
+<img src="./img/Picture1.png" alt="Resim" width="45%"/> &nbsp;&nbsp;&nbsp; <img src="./img/Picture2.png" alt="Resim" width="45%"/>
+<img src="./img/Picture3.png" alt="Resim" width="45%"/> &nbsp;&nbsp;&nbsp; <img src="./img/Picture4.png" alt="Resim" width="45%">
+<img src="./img/Picture5.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture6.png" alt="Resim" width="45%">
+<img src="./img/Picture7.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture8.png" alt="Resim" width="45%">
+<img src="./img/Picture9.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture10.png" alt="Resim" width="45%">
+<img src="./img/Picture11.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture12.png" alt="Resim" width="45%">
 
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/7af10919-e5a8-490f-ace4-78c822b418c5" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/8d7a9bb2-e4ea-46dc-aae2-5dfc2ed5bad9" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/408bf544-c6b5-4d22-8bcb-6602cefaa68d" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/dcfdf391-229d-44a3-b06c-f45eca7b5221" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/91f46c5e-071c-48f8-9be9-bbbd4c4af044" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/e7c30853-972e-420b-b62d-77dcaedbb3cc" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/b1913f2b-d3e8-4d04-b0d8-14e348508bcf" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/cf97795e-7494-4d6d-b9a0-1bfebdf90735" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/78c9e431-3eaf-403e-af26-38a952b4f863" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/c42ffc60-fe4b-4952-b767-872910bc6730" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/c55e1035-002f-41db-a292-049fb9e944da" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/a5742bcd-e24a-4d5c-bfe0-b847fa0b05f6" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/baa86842-2123-4a2a-91d7-af28ccdf1fa8" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/7c7c7a8a-f879-4a35-b582-de2e1018265d" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/fbc09e9b-7e7e-4c2b-855a-b4db5561a032" alt="Resim" width="600" >
 
 #### Conclusion
-
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/42743a96-950c-4096-8dc6-743192f0128e" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/2f00560a-610f-4553-81e5-ef16db7be89a" alt="Resim" width="600" >
+<img src="./img/Picture13.png" alt="Resim" width="50%">
+<img src="./img/Picture14.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture15.png" alt="Resim" width="45%">
+<img src="./img/Picture16.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture17.png" alt="Resim" width="45%">
 
 #### Bayesian Belief Network Code
 
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/4c49f868-21e9-4e6f-b8b7-53e976be2907" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d552e54a-c032-4d62-842c-1263f1cf67a5" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/eb303368-d81b-4be2-8abb-0a0f1b3a2763" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d6ef1752-42a0-4345-89fd-065b22d6ed5a" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/498ef213-e77b-4dab-b86c-52068144ded3" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/0eda63d8-1c19-4439-96c5-afd6cd5c2b23" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/e73d8203-6a2f-4216-bf6f-4351e843bb0f" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/eba359f5-c6a0-4293-9ada-daf87bb62aa4" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/27ad5ec8-8611-464e-abd8-f11f75462161" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/1dec9bbd-aff1-4fad-a0b9-7abbce139425" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/9d2f68c0-3870-4fc7-aff7-e25e9299ed84" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/165a1b7e-7a4b-4408-860f-072da7bb22c3" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/b71f2673-2a5c-4494-bd0a-7b821836b8f1" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d2fbb25b-d28e-41d0-848a-bf76b4126e31" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/8712c652-02ce-4f21-9845-ac43a1241b85" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/d02f058a-ba26-41ea-b0ad-d3832b9dcf80" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/be088b83-eba0-4cca-bb09-685d1c4683a2" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/e3fe41d1-27b6-41b2-881f-50aa54f69874" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/b89396cb-27be-4716-bd97-c64b91843ecd" alt="Resim" width="600" >
-<img src="https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset/assets/73248614/8624da59-1fc4-48fc-b14a-961e2e01e494" alt="Resim" width="600" >
+<img src="./img/Picture18.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture19.png" alt="Resim" width="45%">
+<img src="./img/Picture20.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture21.png" alt="Resim" width="45%">
+<img src="./img/Picture22.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture23.png" alt="Resim" width="45%">
+<img src="./img/Picture24.png" alt="Resim" width="45%">&nbsp;&nbsp;&nbsp;<img src="./img/Picture25.png" alt="Resim" width="45%">
+<img src="./img/Picture26.png" alt="Resim" width="45%">
 
 #### "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone":
 
@@ -165,7 +125,9 @@ In this academic study, we first describe the results obtained for survival pred
 In this study, two features (ejection fraction and serum creatine) determined by traditional biostatistical analysis methods were ranked using machine learning methods. This method demonstrated that electronic health records can be effectively used for binary classification of patients with cardiovascular heart disease.
 However, limitations of the study include the small size of the dataset (299 patients), insufficient information on patients' physical characteristics, and the lack of datasets from different geographical regions. These limitations suggest that more reliable results can be obtained and additional risk factors can be identified by using larger and more diverse datasets.
 
-
+<img src="./img/Picture27.png" alt="Resim" width="50%">
+<img src="./img/Picture28.png" alt="Resim" width="50%">
+<img src="./img/Picture29.png" alt="Resim" width="50%">
 
 
 

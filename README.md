@@ -1,7 +1,19 @@
 ### [En](#naive-bayes-and-bbn)/[Tr](#naive-bayes-ve-bbn)
 # NAIVE BAYES VE BBN
+
 ## NAIVE BAYES VE BBN YÖNTEMİ: KALP YETMEZLİĞİ SONUCU ÖLÜM TEŞHİSİ
 ### Mahire Zühal Özdemir
+
+### GEREKSİNİMLER
+- UCI Kalp Yetmezliği Veriseti
+- Python 3.7 versiyon
+- Python Kütüphaneleri
+  - Numpy
+  - Matplotlib
+  - Pandas
+  - OS
+  - Scikit-learn
+  - Seaborn
 #### Makine öğrenimi ile kalp yetmezliği olan hastaların sağkalım tahmini yapmanın önemi:
 Kalp yetmezliği ciddi bir sağlık sorunudur ve hastaların sağkalım oranları birçok faktöre bağlıdır. Makine öğrenimi, hastaların sağkalım tahminleri ve risk faktörlerinin belirlenmesinde etkili bir araçtır. Bu yöntemler, hastalığın daha iyi anlaşılmasına, tedavinin daha iyi yönetilmesine ve hastaların yaşam kalitesinin artırılmasına yardımcı olabilir.
 #### Peki eğitim için kullanacağımız Naive Bayes algoritması nedir ve nasıl çalışır?
@@ -68,6 +80,16 @@ Ancak, çalışmanın sınırlamaları arasında veri setinin küçük boyutu (2
 # NAIVE BAYES AND BBN
 ## NAIVE BAYES AND BBN METHOD: DIAGNOSIS OF DEATH DUE TO HEART FAILURE
 ### Mahire Zühal Özdemir
+### Requirements
+- UCI Heart Failure Dataset
+- Python 3.7 version
+- Python Libraries
+  - Numpy
+  - Matplotlib
+  - Pandas
+  - OS
+  - Scikit-learn
+  - Seaborn
 #### The importance of predicting survival of patients with heart failure using machine learning:
 Heart failure is a serious health problem and patient survival rates depend on many factors. Machine learning is an effective tool for predicting patient survival and identifying risk factors. These methods can help to better understand the disease, better manage treatment and improve patients' quality of life.
 #### So what is the Naive Bayes algorithm we will use for training and how does it work?
